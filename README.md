@@ -6,7 +6,8 @@ The goal is to clean data set and create a visualization. This activity has 4 pa
   Part 3: Building visualizations
   Part 4: Evaluate and share results
 
-  This will involve Taxi, Tiktok, and Waze datasets.
+
+
 
  1. Taxi Dataset:
 You are the newest data professional in a fictional data consulting firm: Automatidata. The team is still early into the project, having only just completed an initial plan of action and some early Python coding work.
